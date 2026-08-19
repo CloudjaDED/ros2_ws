@@ -1,0 +1,10 @@
+{
+    "ros.distro": "humble",
+    "python-envs.pythonProjects": [
+        {
+            "path": "src/my_bot/launch",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
